@@ -38,3 +38,13 @@ This is a simple Streamlit-based password generator app that creates secure, ran
    Click the **"Generate Password"** button.  
    The app will display the generated password.
 
+## Running the App Locally
+
+To run this app on your local machine, follow these steps:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/YourUsername/your-repository-name.git
+   cd your-repository-name
+
